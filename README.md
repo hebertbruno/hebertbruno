@@ -1,16 +1,20 @@
-### Hi there 👋
+<p align="left"> 
+  Olá, seja bem vindo(a). Me chamo Bruno, sou <strong>Desenvolvedor Full Stack</strong>.<br>
+  Formado em Ciência da Computação e estudante de desenvolvimento Web/ Mobile
+</p>
 
-<!--
-**hebertbruno/hebertbruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  skills: <strong>JavaScript, React, React Native, Angular, Java.</strong>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  Agradeço a visita aos meus repositórios e estou aberto a dicas e sugestões.  
+</p>
+
+<p align="left">
+  
+  <a href="https://www.linkedin.com/in/brunoh-souza/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunoh-souza/" /></a>
+
+</p>  
