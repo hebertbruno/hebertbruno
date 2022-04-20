@@ -4,7 +4,7 @@
 </p>
 
 <p align="left">
-  skills: <strong>JavaScript, React, React Native, Angular, Java.</strong>
+  skills: <strong>JavaScript, React, React Native.</strong>
 </p>
 
 
